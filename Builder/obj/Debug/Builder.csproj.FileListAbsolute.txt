@@ -1,0 +1,7 @@
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Builder\bin\Debug\Builder.exe
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Builder\obj\Debug\Builder.exe
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Builder\obj\Debug\Builder.pdb

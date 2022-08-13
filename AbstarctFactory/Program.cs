@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstarctFactory
+namespace AbstarctFactory 
 {
     class Program
     {
         static void Main(string[] args)
         {
-            ProductManager productManager = new ProductManager(new Factory2());
+            ProductManager productManager = new ProductManager(new Factory1());
             productManager.GetAll();
             Console.ReadLine();
         }

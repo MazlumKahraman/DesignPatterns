@@ -1,0 +1,7 @@
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\cyber\OneDrive\Masaüstü\Works\C#\DesignPatterns\Prototype\obj\Debug\Prototype.pdb
